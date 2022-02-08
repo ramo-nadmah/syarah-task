@@ -1,0 +1,18 @@
+{
+  "web": {
+    "client_id": "544700632511-ktv5bdkmmqplhloirnrv40qncpltv1pq.apps.googleusercontent.com",
+    "project_id": "syarah-omar-hamdan",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost/omar/frontend/web/index.php?r=show%2FgoogleCallback",
+      "http://localhost",
+      "http://localhost:20080/file/google-callback"
+    ],
+    "javascript_origins": [
+      "http://localhost"
+    ]
+  }
+}
